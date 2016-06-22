@@ -5,7 +5,7 @@ Isto é um trabalho acadêmico (Ciência da Computação) implementado em 2007, que a
 
 O programa foi escrito em C#, na época foi utilizado o Visual Studio 2005, agora já está convertido para VS2015, fique livre para melhorá-lo.
 
-![Screenshot](https://github.com/GustavoHennig/ParticionamentoConjuntos/master/part_cnj_screenshot.jpg "ParticionamentoConjuntos")
+![Screenshot](https://raw.githubusercontent.com/GustavoHennig/ParticionamentoConjuntos/master/part_cnj_screenshot.jpg "ParticionamentoConjuntos")
 
 
 

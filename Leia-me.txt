@@ -1,6 +1,6 @@
 
 
-Gustavo Augusto Hennig, 31692
+Gustavo Augusto Hennig
 
 
 Executável: PartCnj.exe
