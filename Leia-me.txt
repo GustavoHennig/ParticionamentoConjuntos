@@ -1,0 +1,23 @@
+
+
+Gustavo Augusto Hennig, 31692
+
+
+Executável: PartCnj.exe
+Fontes:     \Proj_PartConjuntos
+
+
+Para rodar o programa é necessário ter o Microsoft .Net Framework 2.0 instalado.
+
+http://www.microsoft.com/downloads/details.aspx?FamilyID=0856EACB-4362-4B0D-8EDD-AAB15C5E04F5&displaylang=pt-br
+
+
+
+
+O programa foi feito em C# 2.0, para visualizar o código fonte recomendo instalar o Microsoft Visual C# 2005 Express, é uma versão gratuita.
+
+http://msdn2.microsoft.com/pt-br/express/aa975050.aspx
+
+
+Observação:
+O Windows Vista não requer a instação de qualquer framework para o programa funcionar.
